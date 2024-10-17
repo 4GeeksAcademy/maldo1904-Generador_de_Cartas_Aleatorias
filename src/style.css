@@ -19,3 +19,8 @@
   color: black;
   margin-top: 30px;
 }
+
+.pab {
+  position: absolute;
+  right: 600px; /* Lo mueve al borde derecho */
+}
